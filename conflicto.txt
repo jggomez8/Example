@@ -1,1 +1,1 @@
-Esto es un ejemplo de un conflicto
+Esto  no es un ejemplo de conflicto
